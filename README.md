@@ -1,5 +1,5 @@
 # Shopping cart for a cake shop
-Hey! World, let's tast some awesome cakes. So let me give you a cake walk introduction of this project.
+Hey! World, let's taste some awesome cakes. So let me give you a cakewalk introduction to this project.
 This web application allows users to check for various cakes available at the online store and purchase online. 
 The project consists of list of Cakes and bakery products displayed in various categories. 
 The user may browse through these items as per categories. If the user likes a product he/she may add it to his shopping cart. 
